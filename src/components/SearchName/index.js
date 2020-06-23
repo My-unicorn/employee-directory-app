@@ -2,6 +2,7 @@ import React, { useContext } from "react";
 import "./SearchName.css";
 import DataAreaContext from "../../utils/DataAreaContext";
 
+
 const SearchName = () => {
     const context = useContext(DataAreaContext);
 
