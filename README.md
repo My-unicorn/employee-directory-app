@@ -14,7 +14,7 @@ Overview: For this assignment, you'll create a employee directory with React. Th
 -- As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
 ## Demo 
-<img src= "Screenshot.png"  style ="width: 100px">
+<img src= "images/Screenshot.png"  style ="width: 100px">
 
 
 ## Live Demo 
